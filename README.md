@@ -15,7 +15,7 @@
 </ul>
 
 
-**Languages Used**
+**Languages Used-**
 <ul>
   <li>HTML5</li>
   <li>CSS</li>
@@ -23,7 +23,7 @@
 </ul>
 
 
-**Skills/Concepts Practiced**
+**Skills/Concepts Practiced-**
 <ul>
   <li>Version control through Git</li>
   <li>UX design</li>
